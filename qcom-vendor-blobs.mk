@@ -22,7 +22,6 @@ PRODUCT_COPY_FILES += \
     vendor/qcom/proprietary/system/lib/libmmosal.so:system/lib/libmmosal.so \
     vendor/qcom/proprietary/system/lib/libmmparser.so:system/lib/libmmparser.so \
     vendor/qcom/proprietary/system/lib/libmmparser_divxdrmlib.so:system/lib/libmmparser_divxdrmlib.so \
-	vendor/qcom/proprietary/system/lib/libOmxMp3Dec.so:system/lib/libOmxMp3Dec.so \
     vendor/qcom/proprietary/system/lib/libDivxDrm.so:system/lib/libDivxDrm.so \
     vendor/qcom/proprietary/system/lib/libqc-opt.so:system/lib/libqc-opt.so
 
